@@ -1,3 +1,6 @@
+#from unidecode import unidecode
+#names=""" #convert anything to latin """
+#print(unidecode(names))
 Akaki Sixarulidze
 Alexandre Katsarava
 Andria Farcvania
