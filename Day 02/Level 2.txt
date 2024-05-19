@@ -1,6 +1,12 @@
+#davaleba: text documentshi chawere yvelas saxeli sheni jgupidan
+#gaxseni facebook chati, daacopire yvela wevri jgupidan,go copypaste pythonis fileshi,
+#gamoiyene kodi : 
 #from unidecode import unidecode
-#names=""" #convert anything to latin """
+#names=""" #type here anything to convert it latin """
 #print(unidecode(names))
+#rititac shedzleb yvela saxelis latinur asoze gadayvanas
+#chawere notepad++ sadac amoshli nebismier zedmet lines
+#outcome:
 Akaki Sixarulidze
 Alexandre Katsarava
 Andria Farcvania
