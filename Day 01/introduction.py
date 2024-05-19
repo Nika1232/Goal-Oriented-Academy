@@ -1,6 +1,6 @@
-name = "ნიკა"
-surname = "თავართქილაძე"
-age = 25
-height = 178.8
-
-print (name + " " + surname + ", " + " " + "წელი" + " " + str(age) + ", " + "სიმაღლე" + " " + str(height))
+name = input("what is your name?: ")
+print("your name is : ", name)
+age=int(input("what is your age?: "))
+print("your age is: ", age)
+heigh=float(input("type your heigh with using float numbers only: "))
+print("your heigh is: ", heigh)
