@@ -1,5 +1,5 @@
 #8) მომხმარებელს შემოატანინეთ ორი რიცხვი და ყველა შესწავლილი ოპერატორით მოახდინეთ მათზე შედარებები.
-def repeat1():
+def DAVALEBIS_DAWERA():
     choice="B"
     choice="b"
     if choice == "B" or choice == "b":
@@ -16,7 +16,7 @@ def repeat1():
             print("Type '2' to stop")
             r = input("Would you like to try again?")
             if r == '1':
-                repeat1()
+                DAVALEBIS_DAWERA()
             elif r == '2':
                 print("Thank you for using the BraCaLdOmbayNo Calculator!")
             else:
@@ -24,4 +24,4 @@ def repeat1():
                 tryagain1()
         tryagain1()
 
-repeat1()
+DAVALEBIS_DAWERA()
