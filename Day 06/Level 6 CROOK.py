@@ -19,3 +19,5 @@ emaili=input("chawere sheni emaili: ")
 print("sheni saxelia: ", saxeli,"sheni gvaria: ",gvari,"sheni asakia: ",asaki,"sheni emailia: ",emaili)
 
 
+mshoblis_asaki=int(input("chawere mshoblis asaki: "))
+print("20 weliwadshi sheni mshobeli iqneba: ", mshoblis_asaki + 20)
